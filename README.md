@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syedaali710
+- 👋 Hi, I’m @syedaali710 (iG)
 - 👀 I’m interested in coding
 - 🌱 I’m done with Python
 - 📫 How to reach me: alisyeda710@gmail.com
