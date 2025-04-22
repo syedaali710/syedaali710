@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syedaali710 (iG)
 - 👀 I’m interested in coding
-- 🌱 I’m done with Python
+- 🌱 I have done many solo projects
 - 📫 How to reach me: alisyeda710@gmail.com
 - ⚡ Fun fact:  I started as an eye doctor, but my journey led me to tech and e-commerce, managing Amazon campaigns and cross-functional teams along the way!
 
