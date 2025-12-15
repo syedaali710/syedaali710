@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @syedaali710 (iG)
-- 👀 I’m interested in coding
-- 🌱 I have done many solo projects
-- 📫 How to reach me: alisyeda710@gmail.com
-- ⚡ Fun fact:  I started as an eye doctor, but my journey led me to tech and e-commerce, managing Amazon campaigns and cross-functional teams along the way!
+Full-time learner • Part-time debugger • Professional coffee consumer
 
-<!---
-syedaali710/syedaali710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠I teach computers to think (they mostly resist).
+🐍Python is my comfort language.
+🤖Into AI, ML, agents, graphs, and things that sound smarter than they behave.
+🔥I break code, fix it, then break it again — for science.
+📦Shipping features faster than I write documentation (sorry).
+⚠️ Warning: This GitHub may contain unfinished ideas, late-night commits, and sudden brilliance.
+
+✨ Star responsibly.
