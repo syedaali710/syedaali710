@@ -1,4 +1,4 @@
-Full-time learner • Part-time debugger • Professional coffee consumer
+Full-time learner • Part-time debugger • Professional 
 
 I teach computers to think (they mostly resist).
 Python is my comfort language.
