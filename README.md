@@ -128,7 +128,7 @@ Tools & Testing
   <img src="https://img.shields.io/badge/Confluence-172BF4?style=flat-square&logo=confluence&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/nVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" height="26"/>
 </p>
-📊 GitHub Stats
+📊 GitHub StatsSsS
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=syedaali710&theme=dark&hide_border=false&include_all_commits=false&count_private=true" height="170"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=syedaali710&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="170"/>
