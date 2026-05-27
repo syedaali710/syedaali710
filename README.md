@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=550&lines=Building+intelligent+systems;Shipping+production+AI+agents;Rust+%2B+Python+%2B+Next.js+stack;Turning+data+into+decisions" alt="Typing Animation" />
 </p>
 
-### 👋 About Me njjjjkj
+### 👋 About Me
 
 Senior Python Developer specializing in AI infrastructure and backend systems.  
 I architect LLM-powered applications, design autonomous agents, and ship production APIs at scale.  
