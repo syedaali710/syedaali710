@@ -133,15 +133,6 @@ Tools & Testinggggggg
 </p>
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=syedaali710&theme=dark&hide_border=false&include_all_commits=false&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=syedaali710&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="170"/>
+  <img src="https://img.shields.io/badge/Total_Contributions-496-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Current_Streak-152_Days-39D353?style=for-the-badge&logo=vitest&logoColor=white" alt="Current Streak" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=syedaali710&theme=dark&hide_border=false" />
-</p>
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2D8E,100:00D9FF&height=120&section=footer"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/
