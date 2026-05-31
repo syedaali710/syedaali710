@@ -10,8 +10,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=550&lines=Building+intelligent+systems;Shipping+production+AI+agents;Rust+%2B+Python+%2B+Next.js+stack;Turning+data+into+decisions" alt="Typing Animation" />
 </p>
 
-### 👋 About Me 
 
+                                                      📊 GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-496-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Current_Streak-152_Days-39D353?style=for-the-badge&logo=vitest&logoColor=white" alt="Current Streak" />
+</p>
+
+### 👋 About Me 
 Senior Python Developer specializing in AI infrastructure and backend systems.  
 I architect LLM-powered applications, design autonomous agents, and ship production APIs at scale.  
 Currently building the future of intelligent automation at Kaleidoscope.
@@ -130,9 +136,4 @@ Tools & Testinggggggg
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/Confluence-172BF4?style=flat-square&logo=confluence&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/nVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" height="26"/>
-</p>
-📊 GitHub Stats
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-496-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Current_Streak-152_Days-39D353?style=for-the-badge&logo=vitest&logoColor=white" alt="Current Streak" />
 </p>
