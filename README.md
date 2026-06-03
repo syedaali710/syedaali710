@@ -21,7 +21,7 @@
 Senior Python Developer specializing in AI infrastructure and backend systems.  
 I architect LLM-powered applications, design autonomous agents, and ship production APIs at scale.  
 Currently building the future of intelligent automation at Kaleidoscope.
-I love to read :D
+
 
 * 🔭 **Building:** AI agents & LLM-powered automation pipelines
 * 🌱 **Exploring:** Advanced RAG, multi-agent orchestration, Rust systems
