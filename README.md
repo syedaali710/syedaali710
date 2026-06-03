@@ -26,7 +26,7 @@ Currently building the future of intelligent automation at Kaleidoscope.
 * 🔭 **Building:** AI agents & LLM-powered automation pipelines
 * 🌱 **Exploring:** Advanced RAG, multi-agent orchestration, Rust systems
 * 💬 **Ask me about:** FastAPI, LangChain, PyTorch, Kubernetes, GenAI architecture and everything
-* 📫 **Reach me:** alisyeda710@gmail.com
+* 📫 **Reach me:** alisyeda710@gmail.com yaayyyyy oooeooee me laav to talk
 * 🌐 **Connect**
 <p align="left">
   <a href="https://www.linkedin.com/in/samah-zahid-shah/" target="_blank">
