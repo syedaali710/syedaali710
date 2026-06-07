@@ -23,7 +23,7 @@ I architect LLM-powered applications, design autonomous agents, and ship product
 Currently building the future of intelligent automation at Kaleidoscope.
 
 
-* 🔭 **Building:** AI agents & LLM-powered automation pipelines nn
+* 🔭 **Building:** AI agents & LLM-powered automation pipelines 
 * 🌱 **Exploring:** Advanced RAG, multi-agent orchestration, Rust systems
 * 💬 **Ask me about:** FastAPI, LangChain, PyTorch, Kubernetes, GenAI architecture and everything
 * 📫 **Reach me:** alisyeda710@gmail.com 
