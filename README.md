@@ -45,7 +45,7 @@ Currently building the future of intelligent automation at Kaleidoscope.
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24"/>
   </a>
 </p>
-🛠️ Tech Stack
+🛠️ Tech Stack nnnnnnn
 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="26"/>
