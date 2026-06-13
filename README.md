@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00D9FF,100:7B2D8E&height=200&section=header&text=Samah%20Zahid&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Agent%20Builder&descAlignY=65&descSize=18&stroke=00D9FF&strokeWidth=2"/>
 </p>
-<!-- Typing Animation -->   
+<!-- Typing Animation -->      
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=550&lines=Building+intelligent+systems;Shipping+production+AI+agents;Rust+%2B+Python+%2B+Next.js+stack;Turning+data+into+decisions" alt="Typing Animation" />
 </p>
@@ -45,7 +45,7 @@ Currently building the future of intelligent automation at Kaleidoscope.
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24"/>
   </a>
 </p>
-🛠️ Tech Stack nnnnnnn
+🛠️ Tech Stack
 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="26"/>
