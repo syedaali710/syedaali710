@@ -18,6 +18,7 @@
 </p>
 
 ### 👋 About Me 
+I like reading books, cooking, sports
 Senior Python Developer specializing in AI infrastructure and backend systems.  
 I architect LLM-powered applications, design autonomous agents, and ship production APIs at scale.  
 Currently building the future of intelligent automation at Kaleidoscope.
