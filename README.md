@@ -19,6 +19,7 @@
 
 ### 👋 About Me 
 I like reading books, cooking, sports
+Senior Python Developer specializing in AI infrastructure and backend systems. 
 
 
 * 🔭 **Building:** AI agents & LLM-powered automation pipelines 
