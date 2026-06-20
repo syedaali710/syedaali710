@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Current_Streak-152_Days-39D353?style=for-the-badge&logo=vitest&logoColor=white" alt="Current Streak" />
 </p>
 
-### 👋 About Me  
+### 👋 About Me   i laaaavv books
 I like reading books, cooking, sports, and swimming I am piscess
 Senior Python Developer specializing in AI infrastructure and backend systems. 
 I architect LLM-powered applications, design autonomous agents, and ship production APIs at scale.  
