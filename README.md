@@ -48,7 +48,7 @@ Currently building the future of intelligent automation at Kaleidoscope. jkk
   </a>
 </p>
 🛠️ Tech Stack
-Languages
+Languages i love
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="26"/>
